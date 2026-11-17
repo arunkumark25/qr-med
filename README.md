@@ -1,1 +1,2 @@
 # qr-med
+#hello developers.....!
