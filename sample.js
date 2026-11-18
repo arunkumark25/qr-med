@@ -1,3 +1,3 @@
-const message="Hello QR MED";
+const message="Welcome QR MED";
 
 console.log(message);
