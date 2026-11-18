@@ -1,1 +1,1 @@
-# qr-med
+# qr-medicine
